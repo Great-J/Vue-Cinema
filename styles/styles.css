@@ -77,7 +77,6 @@ body{
     display: flex;
     height: 2px;
     background: var(--orange);
-  
 }
 
 ::-webkit-scrollbar{
