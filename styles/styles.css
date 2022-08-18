@@ -535,7 +535,6 @@ body{
     .section__collection-box{
         grid-template-columns: repeat(2,1fr);
     }
-   
 }
 @media(max-width:950px){
     .section__series-item{
