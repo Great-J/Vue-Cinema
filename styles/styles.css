@@ -558,8 +558,6 @@ body{
         display: block;
     }
 }
-
-
 @media(max-width:576px){
     .films__box{
         grid-template-columns: 1fr;
@@ -569,8 +567,9 @@ body{
     }
     .header__content-title{
         font-size: 36px;
-        line-height: 36px;
         text-align: center;
+        line-height: 36px;
+       
     }
     .section__series-item:nth-of-type(6n+1) .section__series-title{
         font-size: 30px;
